@@ -1,7 +1,3 @@
 May the Force be with you
-<<<<<<< HEAD
 Line changed in Master
-=======
-
 changed on Feature-1 level
->>>>>>> feature-1
